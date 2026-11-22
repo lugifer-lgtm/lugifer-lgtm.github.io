@@ -21,8 +21,8 @@ title: Praveen Palaniappan
 email: praveenpalaniappan.pa26_ug@apu.edu.in
 description: >- # this means to ignore newlines until "baseurl:"
  Elllooo, I am Praveen and this my project, I plan to do this till I can. 
-baseurl: "/~praveenpalaniappan-pa" # the subpath of your site, e.g. /blog
-url: "http://coc.apucomputing.in" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: ""
+url: "https://lugifer-lgtm.github.io"
 
 # Build settings
 theme: minima
